@@ -1,0 +1,40 @@
+body {
+
+    background-color: #131722 !important;
+    color: #fff !important;
+   
+}
+
+a , a:hover
+{
+    color: #fff !important;
+    text-decoration: none !important;
+}
+
+li
+{
+    cursor: pointer;
+}
+
+.brdr
+{
+    background-color: #313131;
+    height: 2px;
+}
+
+.movie
+{
+    cursor: pointer;
+    position: relative;
+}
+
+
+
+.rate
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+
